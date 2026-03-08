@@ -1,6 +1,6 @@
 [
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "dinox-sync",
     "name": "Dinox Sync",
     "description": "Syncs Dinox notes into Orca Note (sync into journals).",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "flomo-sync",
     "name": "Flomo Sync",
     "description": "Syncs Flomo notes into Orca Note (sync into journals).",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "hidden-text",
     "name": "Hidden Text",
     "description": "Provides the ability to hide selected text (for folding/obscuring content).",
@@ -55,7 +55,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "lanterns",
     "name": "Lanterns",
     "description": "Add a festive touch to the Spring Festival.",
@@ -74,7 +74,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "linker",
     "name": "Linker",
     "description": "Manages large assets outside Orca Note by creating virtual paths to reference them.",
@@ -93,7 +93,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "official-themes",
     "name": "Official Themes",
     "description": "Official themes for Orca Note; provides installable theme styles.",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "random-walk",
     "name": "Random Walk",
     "description": "A plugin to help you recap/review notes (random-walk review).",
@@ -131,7 +131,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "share-card",
     "name": "Share Card",
     "description": "Exports notes as cards (images) for sharing on mobile devices.",
@@ -150,7 +150,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "simple-task",
     "name": "Simple Task",
     "description": "A plugin that helps you quickly create tasks using Orca Note's tag system.",
@@ -169,7 +169,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "table-layout",
     "name": "Table Layout",
     "description": "An Orca Note plugin that formats table blocks for complex layouts.",
@@ -188,7 +188,7 @@
     }
   },
   {
-    "author": "@sethyuan",
+    "author": "sethyuan",
     "id": "task-confetti",
     "name": "Task Confetti",
     "description": "Celebrates task completion with confetti.",
